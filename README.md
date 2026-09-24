@@ -4,7 +4,7 @@
 
 Automates the process of posting to an already logged-in Instagram account using a browser-capable agent. Use this skill when the user requests to post, upload, publish, or share a video or image to Instagram with provided content and tags.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `instagram-posting`
 
 ## Install
